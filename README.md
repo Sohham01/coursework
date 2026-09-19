@@ -107,7 +107,7 @@ is_power(2, 18) → False
 ## How to Run
 
 1. Clone the repository
-   git clone https://github.com/your-username/repository-name.git
+   git clone [https://github.com/Sohham01/coursework]
 
 2. Open the notebook
    PL_assignment.ipynb
